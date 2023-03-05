@@ -18,7 +18,7 @@ public class Pet {
     public Pet() {
     }
 
-    public Pet(int id, String name, double weigth, String description, String[] possessions) {
+    public Pet(int id, String name, double weigth, String description) {
         this.id = id;
         this.name = name;
         this.weigth = weigth;
